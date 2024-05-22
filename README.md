@@ -4,6 +4,9 @@
 
 This project focuses on developing an application that visualizes the topology of local computer networks. The application is designed to help network administrators better understand and manage their networks by displaying the connections between devices within the network. Utilizing various libraries and technologies, the application collects information about network devices and their connections, and then graphically presents this data.
 
+
+![Untitled](images/poster.png)
+
 ## Features
 
 1. **Device Information Collection**: The application uses the SSH protocol to connect to network devices and gather data.
