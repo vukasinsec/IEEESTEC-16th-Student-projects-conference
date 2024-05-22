@@ -4,6 +4,9 @@
 
 This project focuses on developing an application that visualizes the topology of local computer networks. The application is designed to help network administrators better understand and manage their networks by displaying the connections between devices within the network. Utilizing various libraries and technologies, the application collects information about network devices and their connections, and then graphically presents this data.
 
+
+![Untitled](images/poster.png)
+
 ## Features
 
 1. **Device Information Collection**: The application uses the SSH protocol to connect to network devices and gather data.
@@ -98,6 +101,6 @@ The author thanks Prof. Dr. Vladimir Ćirić and Prof. Dr. Emilija Živanović f
 - NetworkX
 - [Matplotlib](https://matplotlib.org/)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f8f9b54d-636c-41a1-9e50-85a87b66d7bf/94872bde-a5c3-41fe-b9eb-0ef303d2d8a9/Untitled.png)
+![Untitled](images/topology.jpeg)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f8f9b54d-636c-41a1-9e50-85a87b66d7bf/35e7e9db-6889-4cfc-b673-9fa3befd0465/Untitled.png)
+![Untitled](images/output.jpeg)
